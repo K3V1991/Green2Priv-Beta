@@ -1,0 +1,6 @@
+id=Green2Priv-BETA
+name=Green2Priv (Beta)
+version=v4.7.8
+versionCode=4780
+author=K3V1991
+description=A Module to make Greenify work as a privileged App (Faster Hibernation & systemlessly)
