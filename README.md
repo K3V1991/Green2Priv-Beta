@@ -9,7 +9,6 @@ A simple Module to make Greenify work as a ROM-integrated (privileged) App
 
 ## APK Source:
 * APK downloaded from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "APKMirror Page")
-<br />
 
 ## Links:
 [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/t/module-green2priv-greenify-as-system-app.3945107/)
