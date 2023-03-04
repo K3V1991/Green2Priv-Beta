@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/K3V1991/Green2Priv-Beta/blob/main/Green2Priv.png" width="250"></a>
-<h1 align="center"><b>Green2Priv Beta (Magisk)</b></h1>
+<h1 align="center"><b>Green2Priv Beta</b></h1>
 <h4 align="center">A simple Module to make Greenify work as a ROM-integrated (privileged) App</h4>
 <br />
 
