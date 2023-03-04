@@ -14,7 +14,7 @@
 <br />
 
 ## Module Explanation:
-A simple Module to make Greenify work as a ROM-integrated (privileged) App
+A simple Module to make Greenify Beta Version work as a ROM-integrated (privileged) App
 <br />
 
 ## APK Source:
